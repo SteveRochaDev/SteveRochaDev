@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Steve Rocha 👋</h1>
-<h3 align="center">Computer Engineering Graduate & Web Developer</h3>
+<h3 align="center">Computer Engineering Graduate & Tech Enthusiast</h3>
 
 <!-- Overview Section -->
 <div align="center">
