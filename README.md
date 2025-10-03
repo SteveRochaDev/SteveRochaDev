@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Steve Rocha 👋</h1>
-<h3 align="center">💻 Computer Engineering Graduate & Web Developer | Building clean, fast web experiences</h3>
+<h3 align="center">Computer Engineering Graduate & Web Developer</h3>
 
 <!-- Overview Section -->
 <div align="center">
@@ -10,9 +10,6 @@
         <a href="https://github.com/SteveRochaDev/neravi">Neravi</a>
     </h4>
 </div>
-
-<!-- Hero Section -->
-<img src="https://raw.githubusercontent.com/SteveRochaDev/assets/main/hero-image.png" alt="Steve Rocha Hero" width="100%" style="margin: 20px 0;" />
 
 <!-- Projects Section -->
 <h2 align="center">🚀 Projects I'm Proud Of</h2>
