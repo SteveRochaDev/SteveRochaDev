@@ -2,11 +2,15 @@
 <h3 align="center">💻 Computer Engineering graduate & Web Developer | Building clean, fast web experiences</h3>
 
 <p align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SteveRochaDev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Custom Profile Badge -->
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-🔥%20123K-blue?style=for-the-badge)
+  
+  <!-- Top Languages Badge -->
+  ![Top Languages](https://img.shields.io/github/languages/top/SteveRochaDev?style=for-the-badge)
+  
+  <!-- Fun Coding GIF -->
   <br>
-  <!-- GitHub trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=SteveRochaDev&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding Animation" width="400"/>
 </p>
 
 <h2 align="left">🚀 Projects I'm proud of</h2>
