@@ -12,7 +12,7 @@
 </div>
 
 <!-- Projects Section -->
-<h2 align="center">🚀 Projects I'm Proud Of</h2>
+<h2 align="center">Selected Projects</h2>
 
 <table align="center">
   <tr>
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/SteveRochaDev/lumio">Lumio</a></td>
-    <td>Personalized bedtime stories app for kids</td>
+    <td>Personalized bedtime stories app for children</td>
   </tr>
   <tr>
     <td><a href="https://github.com/SteveRochaDev/portfolio">Portfolio</a></td>
@@ -43,7 +43,3 @@
     Email: <a href="mailto:steve26rocha@gmail.com">steve26rocha@gmail.com</a>
 </p>
 
-<!-- Footer / Call to Action -->
-<div align="center" style="margin-top: 30px;">
-    <p>⭐ Star my projects if you like them & follow me for more updates!</p>
-</div>
