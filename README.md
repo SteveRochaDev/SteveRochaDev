@@ -11,8 +11,9 @@
     </h4>
 </div>
 
-<!-- Projects Section -->
-<h2 align="center">Selected Projects</h2>
+---
+
+## Selected Projects
 
 <table align="center">
   <tr>
@@ -93,8 +94,46 @@
 
 </table>
 
-<!-- Contact Section -->
-<h2 align="center">📫 Contact Me</h2>
+---
+
+## Fundamentals
+
+<div align="center">
+
+<a href="https://github.com/SteveRochaDev/java-fundamentals">Java</a> |
+<a href="https://github.com/SteveRochaDev/python-fundamentals">Python</a> |
+<a href="https://github.com/SteveRochaDev/c-fundamentals">C</a> |
+<a href="https://github.com/SteveRochaDev/cpp-fundamentals">C++</a> |
+<a href="https://github.com/SteveRochaDev/csharp-fundamentals">C#</a>
+
+</div>
+
+---
+
+## Courses & Learning
+
+<div align="center">
+
+<a href="https://github.com/SteveRochaDev/meta-backend-projects">Meta Back-End Projects</a> |
+<a href="https://github.com/SteveRochaDev/meta-frontend-projects">Meta Front-End Projects</a>
+
+</div>
+
+---
+
+## Other Projects
+
+<div align="center">
+
+<a href="https://github.com/SteveRochaDev/mindguesser">MindGuesser</a> |
+<a href="https://github.com/SteveRochaDev/little-lemon-capstone">Little Lemon Capstone</a>
+
+</div>
+
+---
+
+## Contact Me
+
 <p align="center">
     Email: <a href="mailto:steve26rocha@gmail.com">steve26rocha@gmail.com</a>
 </p>
