@@ -1,39 +1,36 @@
 <h1 align="center">Hi, I'm Steve Rocha 👋</h1>
-<h3 align="center">Computer Engineering Graduate with a passion for technology</h3>
+<h3 align="center">Computer Engineering Graduate with a passion for software development</h3>
 
-<!-- Overview Section -->
 <div align="center">
-    <h4>
-        <a href="https://github.com/SteveRochaDev/lumio">Lumio</a> |
-        <a href="https://github.com/SteveRochaDev/portfolio">Portfolio</a> |
-        <a href="https://github.com/SteveRochaDev/chefio">Chefio</a> |
-        <a href="https://github.com/SteveRochaDev/neravi">Neravi</a>
-    </h4>
+  <h4>
+    <a href="https://github.com/SteveRochaDev?tab=repositories">All Repositories</a> |
+    <a href="mailto:steve26rocha@gmail.com">Contact</a>
+  </h4>
 </div>
 
 ---
 
-## Selected Projects
+<h2 align="center">Projects</h2>
 
 <table align="center">
   <tr>
-    <th>Project</th>
+    <th>Repository</th>
     <th>Description & Tech Stack</th>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/lumio">Lumio</a></td>
+    <td>Lumio</td>
     <td>
-      Creates personalized bedtime stories for children with illustrations.<br>
+      Personalized bedtime story generator.<br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/chefio">Chefio</a></td>
+    <td>Chefio</td>
     <td>
-      Recipe app that suggests meals based on available ingredients.<br>
+      Recipe app based on available ingredients.<br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
       <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql">
@@ -41,18 +38,18 @@
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/neravi">Neravi</a></td>
+    <td>Neravi</td>
     <td>
-      Mood tracking and mindfulness habit builder.<br>
+      Mood tracking & mindfulness app.<br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/portfolio">Portfolio</a></td>
+    <td>Portfolio</td>
     <td>
-      Personal portfolio website showcasing projects and skills.<br>
+      Personal portfolio website.<br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
       <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3">
       <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5">
@@ -60,80 +57,129 @@
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/studytrack">StudyTrack</a></td>
+    <td>StudyTrack</td>
     <td>
-      Task and deadline management system for students.<br>
+      Task & deadline management system.<br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb">
+      <img src="https://img.shields.io/badge/Meteor-FF6A00?logo=meteor">
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/lightrunner">LightRunner</a></td>
+    <td>LightRunner</td>
     <td>
-      2D platformer game built with Python and Pygame.<br>
+      2D platformer game (Pygame).<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/digitai">DigitAI</a></td>
+    <td>DigitAI</td>
     <td>
-      AI system that recognizes handwritten digits.<br>
+      AI handwritten digit recognition.<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow">
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/ghostdiner">GhostDiner</a></td>
+    <td>GhostDiner</td>
     <td>
-      Arcade-style game set in a haunted restaurant.<br>
+      Arcade ghost restaurant game.<br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
     </td>
   </tr>
-
 </table>
 
 ---
 
-## Fundamentals
+<h2 align="center">Fundamentals</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th>Repository</th>
+    <th>Description & Tech Stack</th>
+  </tr>
 
-<a href="https://github.com/SteveRochaDev/java-fundamentals">Java</a> |
-<a href="https://github.com/SteveRochaDev/python-fundamentals">Python</a> |
-<a href="https://github.com/SteveRochaDev/c-fundamentals">C</a> |
-<a href="https://github.com/SteveRochaDev/cpp-fundamentals">C++</a> |
-<a href="https://github.com/SteveRochaDev/csharp-fundamentals">C#</a>
+  <tr>
+    <td>Java Fundamentals</td>
+    <td>
+      Java syntax, OOP, algorithms, exercises.<br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk">
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <td>C# Fundamentals</td>
+    <td>
+      C# syntax, OOP, practice exercises.<br>
+      <img src="https://img.shields.io/badge/C%23-239120?logo=csharp">
+    </td>
+  </tr>
+
+  <tr>
+    <td>C++ Fundamentals</td>
+    <td>
+      C++ basics, memory, OOP concepts.<br>
+      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus">
+    </td>
+  </tr>
+
+  <tr>
+    <td>C Fundamentals</td>
+    <td>
+      Low-level programming, pointers, memory.<br>
+      <img src="https://img.shields.io/badge/C-A8B9CC?logo=c">
+    </td>
+  </tr>
+
+  <tr>
+    <td>Python Fundamentals</td>
+    <td>
+      Python syntax, automation, OOP.<br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Courses & Learning
+<h2 align="center">Courses</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th>Repository</th>
+    <th>Description & Tech Stack</th>
+  </tr>
 
-<a href="https://github.com/SteveRochaDev/meta-backend-projects">Meta Back-End Projects</a> |
-<a href="https://github.com/SteveRochaDev/meta-frontend-projects">Meta Front-End Projects</a>
+  <tr>
+    <td>Meta Backend Projects</td>
+    <td>
+      Backend development with Python, Django, APIs, HTML and CSS.<br>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django">
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <td>Meta Frontend Projects</td>
+    <td>
+      Frontend development with HTML, CSS and JavaScript.<br>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Other Projects
-
-<div align="center">
-
-<a href="https://github.com/SteveRochaDev/mindguesser">MindGuesser</a> |
-<a href="https://github.com/SteveRochaDev/little-lemon-capstone">Little Lemon Capstone</a>
-
-</div>
-
----
-
-## Contact Me
+<h2 align="center">Contact</h2>
 
 <p align="center">
-    Email: <a href="mailto:steve26rocha@gmail.com">steve26rocha@gmail.com</a>
+Email: <a href="mailto:steve26rocha@gmail.com">steve26rocha@gmail.com</a>
 </p>
