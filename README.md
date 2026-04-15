@@ -8,7 +8,14 @@
   </h4>
 </div>
 
----
+<br>
+
+<p align="center">
+I’m a Computer Engineering graduate focused on software development and continuous learning.<br>
+This GitHub is a collection of projects, fundamentals, and course work where I document my progression as a developer and continuously improve my skills.
+</p>
+
+<br>
 
 <h2 align="center">Projects</h2>
 
