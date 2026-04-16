@@ -233,6 +233,29 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react">
     </td>
   </tr>
+
+  <tr>
+    <td><a href="https://github.com/SteveRochaDev/little-lemon-capstone">Little Lemon Capstone</a></td>
+    <td>
+      Front-end capstone project: restaurant table booking app built with React.<br>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/SteveRochaDev/studytrack">StudyTrack</a></td>
+    <td>
+      Responsive full-stack web application for task and deadline management, built as a capstone project.<br>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb">
+      <img src="https://img.shields.io/badge/Meteor-FF6A00?logo=meteor">
+    </td>
+  </tr>
 </table>
 
 ---
