@@ -26,9 +26,9 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/keygrid">KeyGrid</a></td>
+    <td><a href="https://github.com/SteveRochaDev/keygrid">KeyGrid ⭐</a></td>
     <td>
-      Distributed key-value storage system with microservices architecture.<br>
+      Distributed key-value storage system with microservices architecture, load balancing and fault tolerance.<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
       <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker">
@@ -40,7 +40,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   <tr>
     <td><a href="https://github.com/SteveRochaDev/software-engineering-lab">Software Engineering Lab</a></td>
     <td>
-      Full-stack web application (Doccano extension).<br>
+      Full-stack web application (Doccano extension) using Django REST and Vue.js.<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
       <img src="https://img.shields.io/badge/Django-092E20?logo=django">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
@@ -50,7 +50,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   <tr>
     <td><a href="https://github.com/SteveRochaDev/web-app-development">Web App Development</a></td>
     <td>
-      Full-stack web application (online marketplace).<br>
+      Full-stack online marketplace built with TypeScript, Node.js and custom backend logic.<br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript">
       <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
@@ -60,7 +60,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   <tr>
     <td><a href="https://github.com/SteveRochaDev/computer-graphics">Computer Graphics</a></td>
     <td>
-      3D game development with OpenGL and Python.<br>
+      3D game development project using Python and OpenGL.<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
       <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl">
     </td>
@@ -69,7 +69,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
 
 ---
 
-<h2 align="center"> Personal Projects</h2>
+<h2 align="center">Personal Projects</h2>
 
 <table align="center">
   <tr>
@@ -78,7 +78,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>Lumio</td>
+    <td><a href="https://github.com/SteveRochaDev/lumio">Lumio</a></td>
     <td>
       Personalized bedtime story generator.<br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
@@ -87,7 +87,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>Chefio</td>
+    <td><a href="https://github.com/SteveRochaDev/chefio">Chefio</a></td>
     <td>
       Recipe app based on available ingredients.<br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
@@ -97,7 +97,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>Neravi</td>
+    <td><a href="https://github.com/SteveRochaDev/neravi">Neravi</a></td>
     <td>
       Mood tracking & mindfulness app.<br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
@@ -106,7 +106,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>Portfolio</td>
+    <td><a href="https://github.com/SteveRochaDev/portfolio">Portfolio</a></td>
     <td>
       Personal portfolio website.<br>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
@@ -116,7 +116,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>StudyTrack</td>
+    <td><a href="https://github.com/SteveRochaDev/studytrack">StudyTrack</a></td>
     <td>
       Task & deadline management system.<br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
@@ -126,7 +126,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>LightRunner</td>
+    <td><a href="https://github.com/SteveRochaDev/lightrunner">LightRunner</a></td>
     <td>
       2D platformer game (Pygame).<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
@@ -134,7 +134,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>DigitAI</td>
+    <td><a href="https://github.com/SteveRochaDev/digitai">DigitAI</a></td>
     <td>
       AI handwritten digit recognition.<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
@@ -143,7 +143,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>GhostDiner</td>
+    <td><a href="https://github.com/SteveRochaDev/ghostdiner">GhostDiner</a></td>
     <td>
       Arcade ghost restaurant game.<br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
@@ -162,41 +162,41 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>Java Fundamentals</td>
+    <td><a href="https://github.com/SteveRochaDev/java-fundamentals">Java Fundamentals</a></td>
     <td>
-      Java syntax, OOP, algorithms, exercises.<br>
+      Java syntax, OOP, algorithms and exercises.<br>
       <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk">
     </td>
   </tr>
 
   <tr>
-    <td>C# Fundamentals</td>
+    <td><a href="https://github.com/SteveRochaDev/csharp-fundamentals">C# Fundamentals</a></td>
     <td>
-      C# syntax, OOP, practice exercises.<br>
+      C# syntax, OOP and practice exercises.<br>
       <img src="https://img.shields.io/badge/C%23-239120?logo=csharp">
     </td>
   </tr>
 
   <tr>
-    <td>C++ Fundamentals</td>
+    <td><a href="https://github.com/SteveRochaDev/cpp-fundamentals">C++ Fundamentals</a></td>
     <td>
-      C++ basics, memory, OOP concepts.<br>
+      C++ basics, memory management and OOP concepts.<br>
       <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus">
     </td>
   </tr>
 
   <tr>
-    <td>C Fundamentals</td>
+    <td><a href="https://github.com/SteveRochaDev/c-fundamentals">C Fundamentals</a></td>
     <td>
-      Low-level programming, pointers, memory.<br>
+      Low-level programming, pointers and memory concepts.<br>
       <img src="https://img.shields.io/badge/C-A8B9CC?logo=c">
     </td>
   </tr>
 
   <tr>
-    <td>Python Fundamentals</td>
+    <td><a href="https://github.com/SteveRochaDev/python-fundamentals">Python Fundamentals</a></td>
     <td>
-      Python syntax, automation, OOP.<br>
+      Python syntax, automation and OOP.<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
     </td>
   </tr>
@@ -213,7 +213,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>Meta Backend Projects</td>
+    <td><a href="https://github.com/SteveRochaDev/meta-backend-projects">Meta Backend Projects</a></td>
     <td>
       Backend development with Python, Django, APIs, HTML and CSS.<br>
       <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5">
@@ -224,7 +224,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td>Meta Frontend Projects</td>
+    <td><a href="https://github.com/SteveRochaDev/meta-frontend-projects">Meta Frontend Projects</a></td>
     <td>
       Frontend development with HTML, CSS and JavaScript.<br>
       <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5">
