@@ -26,7 +26,7 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
-    <td><a href="https://github.com/SteveRochaDev/keygrid">KeyGrid ⭐</a></td>
+    <td><a href="https://github.com/SteveRochaDev/keygrid">KeyGrid</a></td>
     <td>
       Distributed key-value storage system with microservices architecture, load balancing and fault tolerance.<br>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
