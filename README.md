@@ -17,7 +17,59 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
 
 <br>
 
-<h2 align="center">Projects</h2>
+<h2 align="center">University Projects</h2>
+
+<table align="center">
+  <tr>
+    <th>Repository</th>
+    <th>Description & Tech Stack</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/SteveRochaDev/keygrid">KeyGrid</a></td>
+    <td>
+      Distributed key-value storage system with microservices architecture.<br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql">
+      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/SteveRochaDev/software-engineering-lab">Software Engineering Lab</a></td>
+    <td>
+      Full-stack web application (Doccano extension).<br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/SteveRochaDev/web-app-development">Web App Development</a></td>
+    <td>
+      Full-stack web application (online marketplace).<br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript">
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript">
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/SteveRochaDev/computer-graphics">Computer Graphics</a></td>
+    <td>
+      3D game development with OpenGL and Python.<br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl">
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center"> Personal Projects</h2>
 
 <table align="center">
   <tr>
