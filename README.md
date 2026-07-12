@@ -213,6 +213,17 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
   </tr>
 
   <tr>
+    <td><a href="https://github.com/SteveRochaDev/google-it-automation-projects">Google IT Automation Projects</a></td>
+    <td>
+      IT automation with Python, Git, Linux, troubleshooting and cloud concepts.<br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python">
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git">
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux">
+      <img src="https://img.shields.io/badge/Cloud-4285F4?logo=googlecloud">
+    </td>
+  </tr>
+
+  <tr>
     <td><a href="https://github.com/SteveRochaDev/meta-backend-projects">Meta Backend Projects</a></td>
     <td>
       Backend development with Python, Django, APIs, HTML and CSS.<br>
