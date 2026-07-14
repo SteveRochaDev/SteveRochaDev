@@ -12,12 +12,16 @@
 
 <p align="center">
 I’m a Computer Engineering graduate focused on software development and continuous learning.<br>
-This GitHub is a collection of projects, fundamentals, and course work where I document my progression as a developer and continuously improve my skills.
+This GitHub is a collection of projects, programming fundamentals, and coursework where I document my progress as a developer and continue improving my skills.
 </p>
 
 <br>
 
 <h2 align="center">University Projects</h2>
+
+<p align="center">
+Projects developed during my Computer Engineering degree, covering areas such as software engineering, distributed systems, web development, and computer graphics.
+</p>
 
 <table align="center">
   <tr>
@@ -70,6 +74,10 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
 ---
 
 <h2 align="center">Personal Projects</h2>
+
+<p align="center">
+Personal projects where I explore new ideas, learn new technologies, and build applications outside of my academic work.
+</p>
 
 <table align="center">
   <tr>
@@ -155,6 +163,10 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
 
 <h2 align="center">Fundamentals</h2>
 
+<p align="center">
+Repositories created to practice programming fundamentals, explore different languages, and build a stronger foundation in software development.
+</p>
+
 <table align="center">
   <tr>
     <th>Repository</th>
@@ -205,6 +217,10 @@ This GitHub is a collection of projects, fundamentals, and course work where I d
 ---
 
 <h2 align="center">Courses</h2>
+
+<p align="center">
+Professional courses and certifications where I document my learning journey and apply new concepts through projects and exercises.
+</p>
 
 <table align="center">
   <tr>
